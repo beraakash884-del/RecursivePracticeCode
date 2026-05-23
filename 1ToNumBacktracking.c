@@ -1,4 +1,4 @@
-// In this code i will print numbers from one to num  using recursion (backtracking).
+// In this code i will print  one to num  using recursion (backtracking).
 
 #include <stdio.h>
 void PrintNumber(int);
