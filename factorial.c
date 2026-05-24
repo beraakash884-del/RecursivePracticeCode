@@ -1,7 +1,7 @@
 // we will print factorial of a given number
 
 #include <stdio.h>
-void Factorial(int , int );
+void Factorial(int, int);
 int main()
 {
     int numbers;
