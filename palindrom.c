@@ -20,5 +20,5 @@ int Palindrom(char *str, int size, int i)
    else if (str[i] != str[size - 1 - i]) // base condition
       return 0;                          // it is not a palindrom
    // here the recursive call
-   Palindrom(str, size, i + 1);
+    return Palindrom(str, size, i + 1);
 }
